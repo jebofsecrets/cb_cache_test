@@ -1,0 +1,33 @@
+# SPECIFIC MACHINE-GENERATED FILES
+cb_whisper_app/priv/static/js/whisper.js
+cb_whisper_app/priv/static/css/main.css
+
+# GENERAL ERLANG STUFF, LOGS, ETC
+ebin
+*.beam
+erl_crash.dump
+/tmp
+_build
+/logs
+cb_whisper_app/log
+**/console.log.*
+**/crash.log.*
+**/error.log.*
+**/console.log
+**/crash.log
+**/error.log
+deps/**
+dev_tools/node_modules
+
+# SYSTEM FILES
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must ends with two \r.
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
